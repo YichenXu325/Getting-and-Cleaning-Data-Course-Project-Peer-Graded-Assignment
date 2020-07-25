@@ -25,5 +25,7 @@ The file "run_analysis.R" includes 9 steps
 4. Merging all the data
 5. Reading column names
 6. Getting id, mean and std
-7. Naming the activities with descriptive names from activity_label.txt
-8. Making a second tidy data set
+7. Making a second tidy data set
+8. Naming the activities with descriptive names from activity_label.txt
+
+In order to make sure no valid error existing, the naming step for the second tidy data set is arranged after the average values are calculated.
